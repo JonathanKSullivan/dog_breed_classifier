@@ -15,8 +15,8 @@
 Used Convolutional Neural Networks (CNN) to build a pipeline to process real-world, user-supplied images. Given an image of a dog, my algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
 ![Sample Output][image1]
-![Sample Output][image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
-![Sample Output][image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+![Sample Output][image2]
+![Sample Output][image3]
 
 Along with exploring state-of-the-art CNN models for classification, I made important design decisions about the user experience for your app. My goal was to understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline. Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer. My imperfect solution will nonetheless create a fun user experience!
 
